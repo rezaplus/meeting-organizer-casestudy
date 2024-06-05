@@ -1,0 +1,6 @@
+Flask
+pymongo
+flask-cors
+CORS
+bleach
+cerberus
